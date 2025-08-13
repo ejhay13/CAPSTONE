@@ -44,6 +44,83 @@ class _VeggieLibraryScreenState extends State<VeggieLibraryScreen> {
       imagePath: 'assets/images/spinach.jpg',
       soilMoisture: '40% - 60%',
     ),
+    Veggie(
+      name: 'Kangkong',
+      description:
+          'Kangkong is a leafy green vegetable with tender stems and mild-flavored leaves, commonly used in Filipino dishes like adobong kangkong.',
+      imagePath: 'assets/images/kangkong.jpg',
+      soilMoisture: '60% - 90%',
+    ),
+    Veggie(
+      name: 'Pechay',
+      description:
+          'Pechay is an Asian leafy green with crisp white stalks and soft green leaves. It grows well in both pots and garden beds and has a short growing cycle of about 30 to 45 days. Its a common ingredient in stir fries, soups, and noodle dishes.',
+      imagePath: 'assets/images/pechay.jpg',
+      soilMoisture: '60% - 70%',
+    ),
+    Veggie(
+      name: 'Kale',
+      description:
+          'Kale is a hardy leafy green known for its curly leaves and high nutritional value. It grows well in cooler temperatures but can tolerate a wide range of conditions. Regular watering keeps its leaves tender and less bitter.”',
+      imagePath: 'assets/images/kale.jpg',
+      soilMoisture: '60% - 70%',
+    ),
+    Veggie(
+      name: 'Dahon ng Sili',
+      description:
+          'Tender, slightly bitter leaves from the chili plant. Commonly used in tinola, ginisa, and soups for added flavor. They come from the same plant that produces spicy chili peppers, but the leaves themselves are mild in taste.”',
+      imagePath: 'assets/images/dns.jpg',
+      soilMoisture: '60% - 70%',
+    ),
+    Veggie(
+      name: 'Saluyot',
+      description:
+          'Nutritious leafy vegetable high in fiber, iron, and vitamins. It develops a slightly slimy texture when cooked, similar to okra. Popular in Ilocano dishes like dinengdeng and bulanglang.”',
+      imagePath: 'assets/images/saluyot.jpg',
+      soilMoisture: '60% - 70%',
+    ),
+    Veggie(
+      name: 'Alugbati',
+      description:
+          'A tropical climbing vine with thick, fleshy leaves and stems. Its heat-tolerant and continues producing leaves even in hot weather. Great for ginisa and soups.”',
+      imagePath: 'assets/images/alugbati.jpg',
+      soilMoisture: '70% - 80%',
+    ),
+    Veggie(
+      name: 'Malunggay',
+      description:
+          'Highly nutritious leaves rich in vitamins and minerals. Common in tinola, ginisang gulay, and soups.”',
+      imagePath: 'assets/images/malunggay.jpg',
+      soilMoisture: '50% - 60%',
+    ),
+    Veggie(
+      name: 'Gabi Leaves',
+      description:
+          'Used in dishes like laing and ginataang gabi. Must be cooked thoroughly to remove itchiness.”',
+      imagePath: 'assets/images/gl.jpg',
+      soilMoisture: '70% - 90%',
+    ),
+    Veggie(
+      name: 'Kulitis',
+      description:
+          'Soft, colorful leaves rich in vitamins and minerals. Often sautéed with garlic or added to soups.”',
+      imagePath: 'assets/images/kulitis.jpg',
+      soilMoisture: '50% - 60%',
+    ),
+    Veggie(
+      name: 'Kamote Tops',
+      description:
+          'Young tender leaves, slightly sweet, often sautéed or steamed for salads.”',
+      imagePath: 'assets/images/kamotetops.jpg',
+      soilMoisture: '60% - 80%',
+    ),
+    Veggie(
+      name: 'Sitaw',
+      description:
+          ' a climbing vegetable grown mainly for its long, slender pods, but its young shoots and leaves (talbos) are also eaten. It has a mild flavor and is rich in vitamins A and C, fiber, and minerals.”',
+      imagePath: 'assets/images/sitaw.jpg',
+      soilMoisture: '50% - 60%',
+    ),
   ];
 
   String _searchText = '';
