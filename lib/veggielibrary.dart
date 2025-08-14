@@ -54,70 +54,70 @@ class _VeggieLibraryScreenState extends State<VeggieLibraryScreen> {
     Veggie(
       name: 'Pechay',
       description:
-          'Pechay is an Asian leafy green with crisp white stalks and soft green leaves. It grows well in both pots and garden beds and has a short growing cycle of about 30 to 45 days. Its a common ingredient in stir fries, soups, and noodle dishes.',
+          'Pechay grows quickly and matures in 30 to 45 days. It thrives in full sun and well-drained, fertile soil. Consistent watering keeps its crisp white stalks and tender green leaves fresh.',
       imagePath: 'assets/images/pechay.jpg',
       soilMoisture: '60% - 70%',
     ),
     Veggie(
       name: 'Kale',
       description:
-          'Kale is a hardy leafy green known for its curly leaves and high nutritional value. It grows well in cooler temperatures but can tolerate a wide range of conditions. Regular watering keeps its leaves tender and less bitter.”',
+          'Kale thrives in cool temperatures but adapts to various climates. It prefers fertile, well-drained soil and consistent moisture. Harvesting young leaves ensures tender texture and mild flavor.',
       imagePath: 'assets/images/kale.jpg',
       soilMoisture: '60% - 70%',
     ),
     Veggie(
       name: 'Dahon ng Sili',
       description:
-          'Tender, slightly bitter leaves from the chili plant. Commonly used in tinola, ginisa, and soups for added flavor. They come from the same plant that produces spicy chili peppers, but the leaves themselves are mild in taste.”',
+          'Dahon ng sili grows best in warm climates with full sunlight. It prefers well-drained, fertile soil and regular watering. Harvesting young leaves keeps them tender and flavorful.',
       imagePath: 'assets/images/dns.jpg',
       soilMoisture: '60% - 70%',
     ),
     Veggie(
       name: 'Saluyot',
       description:
-          'Nutritious leafy vegetable high in fiber, iron, and vitamins. It develops a slightly slimy texture when cooked, similar to okra. Popular in Ilocano dishes like dinengdeng and bulanglang.”',
+          'Saluyot thrives in warm weather and full sunlight. It grows well in well-drained, fertile soil with regular watering. Harvesting young leaves ensures a tender texture and mild, slightly earthy flavor.',
       imagePath: 'assets/images/saluyot.jpg',
       soilMoisture: '60% - 70%',
     ),
     Veggie(
       name: 'Alugbati',
       description:
-          'A tropical climbing vine with thick, fleshy leaves and stems. Its heat-tolerant and continues producing leaves even in hot weather. Great for ginisa and soups.”',
+          'Alugbati thrives in warm, humid climates and full sunlight. It prefers moist, fertile soil and regular watering. Frequent harvesting encourages tender, succulent leaves and vigorous growth.',
       imagePath: 'assets/images/alugbati.jpg',
       soilMoisture: '70% - 80%',
     ),
     Veggie(
       name: 'Malunggay',
       description:
-          'Highly nutritious leaves rich in vitamins and minerals. Common in tinola, ginisang gulay, and soups.”',
+          'Malunggay grows well in warm climates and full sunlight. It prefers well-drained soil and minimal watering once established. Regular harvesting of young leaves keeps them tender and nutritious.',
       imagePath: 'assets/images/malunggay.jpg',
       soilMoisture: '50% - 60%',
     ),
     Veggie(
       name: 'Gabi Leaves',
       description:
-          'Used in dishes like laing and ginataang gabi. Must be cooked thoroughly to remove itchiness.”',
+          'Gabi leaves thrive in warm, humid climates and moist soil. They grow best in partially shaded areas with consistent watering. Harvesting young leaves reduces bitterness and ensures a tender texture.',
       imagePath: 'assets/images/gl.jpg',
       soilMoisture: '70% - 90%',
     ),
     Veggie(
       name: 'Kulitis',
       description:
-          'Soft, colorful leaves rich in vitamins and minerals. Often sautéed with garlic or added to soups.”',
+          'Kulitis grows well in warm climates and full sunlight. It prefers fertile, well-drained soil and regular watering. Harvesting young leaves keeps them tender with a mild, slightly nutty flavor.',
       imagePath: 'assets/images/kulitis.jpg',
       soilMoisture: '50% - 60%',
     ),
     Veggie(
       name: 'Kamote Tops',
       description:
-          'Young tender leaves, slightly sweet, often sautéed or steamed for salads.”',
+          'Kamote tops thrive in warm climates and full sunlight. They grow best in well-drained, fertile soil with regular watering. Frequent harvesting of young leaves keeps them tender and flavorful.',
       imagePath: 'assets/images/kamotetops.jpg',
       soilMoisture: '60% - 80%',
     ),
     Veggie(
       name: 'Sitaw',
       description:
-          ' a climbing vegetable grown mainly for its long, slender pods, but its young shoots and leaves (talbos) are also eaten. It has a mild flavor and is rich in vitamins A and C, fiber, and minerals.”',
+          'Sitaw grows well in warm climates and full sunlight. It prefers well-drained, fertile soil and consistent watering. Regular harvesting encourages tender pods and continuous leaf growth.',
       imagePath: 'assets/images/sitaw.jpg',
       soilMoisture: '50% - 60%',
     ),
