@@ -47,7 +47,7 @@ class _VeggieLibraryScreenState extends State<VeggieLibraryScreen> {
     Veggie(
       name: 'Kangkong',
       description:
-          'Kangkong is a leafy green vegetable with tender stems and mild-flavored leaves, commonly used in Filipino dishes like adobong kangkong.',
+          'Kangkong grows in moist soil or shallow water. It thrives in warm climates and full sunlight. Regular watering ensures tender stems and lush, mild-flavored leaves.',
       imagePath: 'assets/images/kangkong.jpg',
       soilMoisture: '60% - 90%',
     ),
